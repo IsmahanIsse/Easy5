@@ -5,7 +5,5 @@ quick way to cook at home
 -Double click on setUp.
 -press Continue.
 
-Admin LogIn:
-user : ismahan  
-password : admin123
+Admin LogIn: user : ismahan  |  password : admin123
 
